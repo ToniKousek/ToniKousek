@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ToniKousek
+- 👋 Hi, I’m Toni Kousek
 - 👀 I’m interested in python and a little bit of web development
 - 🌱 I’m currently learning web development and data science
 - 🏫 I'm currently stuck in school in Croatia so probably not much help I can offer
